@@ -22,3 +22,10 @@ img:hover {
 .broccoli {
     background-color: red;
 }
+
+
+/******************** ID SELECTORS ************************/
+
+#id1 {
+    background-color: green;
+}

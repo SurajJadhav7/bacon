@@ -1,0 +1,24 @@
+/******************* TAG SELECTORS **************************/
+h1 {
+    align-content: center;
+    color : red ;
+    font-size: 50px;
+}
+/*
+p {
+    align-content: center;
+    justify-content: center;
+}
+*/
+img:hover {
+    background-color: gold;
+}
+
+/******************** CLASS SELECTORS ************************/
+
+.bacon {
+    background-color: green;
+}
+.broccoli {
+    background-color: red;
+}
